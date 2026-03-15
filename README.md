@@ -25,7 +25,7 @@ A aplicação foi arquitetada utilizando o paradigma **No-Code/Low-Code**, prior
 
 A aplicação está em produção e disponível para testes no ambiente *Live*:
 
-🔗 **Acessar a Aplicação:** [http://leonardoferrianci-72617.bubbleapps.io](http://leonardoferrianci-35335.bubbleapps.io)
+🔗 **Acessar a Aplicação:** [http://leonardoferrianci-35335.bubbleapps.io](http://leonardoferrianci-35335.bubbleapps.io)
 
 A senha e Usuário estão no arquivo da entrega
 
